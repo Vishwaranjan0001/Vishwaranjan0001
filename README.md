@@ -4,7 +4,7 @@
 
 I build web applications, backend services, and automation workflows, with an interest in reliable systems and clear, maintainable code.
 
-[Portfolio](https://vishwaranjan0001.github.io/) · [Résumé](https://vishwaranjan0001.github.io/Vishwaranjan-Singh-Resume.pdf) · [LeetCode](https://leetcode.com/u/Vishwaranjan_Singh0001/) · [Email](mailto:vishwaranjansingh64@gmail.com)
+[Portfolio](https://vishwaranjan0001.github.io/) · [LeetCode](https://leetcode.com/u/Vishwaranjan_Singh0001/) · [Email](mailto:vishwaranjansingh64@gmail.com)
 
 ## Selected projects
 
