@@ -13,7 +13,7 @@ I build web applications, backend services, and automation workflows, with an in
 | [OctaTrade](https://github.com/Vishwaranjan0001/OctaTrade) | Paper trading with virtual wallets, realtime order updates, worker pools, Redis scheduling, and transactional order execution | Node.js, Express, MongoDB, Redis, Socket.IO, React |
 | [SupportOps AI](https://github.com/Vishwaranjan0001/SupportOps-AI) | Tool-backed support workflows, policy retrieval, persistent conversations, and human refund approval | Python, FastAPI, LangGraph, MCP, Groq, React, SQLite |
 | [Simple Storage Service](https://github.com/Vishwaranjan0001/S3) | Bucket and file REST APIs, SQLAlchemy metadata, and filesystem-backed storage | Python, Flask, SQLAlchemy, SQLite |
-| [FoodBridge](https://github.com/Vishwaranjan0001/App) | Group project coordinating food donations between donors and NGOs | React, Express, MongoDB, JWT |
+| [FoodBridge](https://github.com/Vishwaranjan0001/FoodBridge) | Group project coordinating food donations between donors and NGOs | React, Express, MongoDB, JWT |
 | [WanderLust](https://github.com/Vishwaranjan0001/WanderLust) | Travel listings, account authentication, reviews, and booking workflows | Node.js, Express, EJS, MongoDB, Passport |
 
 Each repository includes its current implementation scope and local setup instructions.
@@ -34,9 +34,7 @@ Each repository includes its current implementation scope and local setup instru
 
 ## More work
 
-[Portfolio source](https://github.com/Vishwaranjan0001/Vishwaranjan0001.github.io) · [BalanceX: C++ load balancing](https://github.com/Vishwaranjan0001/BalanceX-Module-final) · [MediMatch](https://github.com/Vishwaranjan0001/MediMatchfinL) · [Krishi Sarthi](https://github.com/Vishwaranjan0001/Krishi_Sarthi_Implement-1-)
-
-[ADAM](https://github.com/Vishwaranjan0001/ADAM) is a fork of [anuragdevcode/ADAM](https://github.com/anuragdevcode/ADAM), kept separately from the selected personal and group projects above.
+[Portfolio source](https://github.com/Vishwaranjan0001/Vishwaranjan0001.github.io) · [BalanceX: C++ load balancing](https://github.com/Vishwaranjan0001/BalanceX) · [MediMatch](https://github.com/Vishwaranjan0001/MediMatch) · [Krishi Sarthi](https://github.com/Vishwaranjan0001/Krishi-Sarthi)
 
 I'm interested in software engineering opportunities focused on backend development, full-stack applications, and AI systems. Reach me at **vishwaranjansingh64@gmail.com**.
 
